@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "webpack"
+  },
+  "dependencies": {
+    "stylus-loader": "^4.0.0",
+    "stylus": "^0.54.8",
+    "style-loader": "^1.2.1",
+    "css-loader": "^4.3.0",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
